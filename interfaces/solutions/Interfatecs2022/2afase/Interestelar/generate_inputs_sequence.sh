@@ -1,0 +1,25 @@
+#!/bin/zsh
+./generate_inputs "2_in.txt" 100 20 100 500 .25
+./generate_inputs "3_in.txt" 500 40 100 500 .25
+./generate_inputs "4_in.txt" 900 500 100 350 .3
+./generate_inputs "5_in.txt" 2000 500 100 350 .3
+./generate_inputs "6_in.txt" 2000 1500 100 350 .3
+./generate_inputs "7_in.txt" 2000 15000 100 350 .1
+./generate_inputs "8_in.txt" 2000 15000 100 350 .4
+./generate_inputs "9_in.txt" 2000 35000 100 990 .4
+./generate_inputs "10_in.txt" 2000 85000 100 990 .2
+./generate_inputs "11_in.txt" 2000 100000 100 990 .2
+./generate_inputs "12_in.txt" 2000 120000 100 990 .2
+./generate_inputs "13_in.txt" 2000 130000 100 990 .4
+./generate_inputs "14_in.txt" 2000 150000 100 990 .3
+./generate_inputs "15_in.txt" 5000 50000 100 990 .5
+./generate_inputs "16_in.txt" 5000 85000 100 990 .2
+./generate_inputs "17_in.txt" 8000 55000 100 990 .1
+./generate_inputs "18_in.txt" 8000 85000 100 990 .8
+./generate_inputs "19_in.txt" 10000 50000 100 990 .1
+./generate_inputs "20_in.txt" 10000 100000 100 990 .2
+./generate_inputs "21_in.txt" 10000 500000 100 990 .2
+./generate_inputs "22_in.txt" 10000 600000 100 990 .2
+./generate_inputs "23_in.txt" 10000 700000 100 990 .2
+./generate_inputs "24_in.txt" 10000 800000 100 990 .2
+./generate_inputs "25_in.txt" 10000 1000000 100 990 .2
